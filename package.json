@@ -1,0 +1,19 @@
+{
+  "name": "GuilhermeGaboRetucciRPAChallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Guilherme Garbo Retucci",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "node-path": "0.0.3",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "xlsx": "^0.17.0"
+  }
+}
